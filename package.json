@@ -7,5 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jill M Nolan <jill@samret.co> (samret.co)",
-  "license": "ISC"
+  "license": "MIT"
 }
