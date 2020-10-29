@@ -1,0 +1,11 @@
+{
+  "name": "css-node-module",
+  "version": "1.0.0",
+  "description": "NPM Module for CSS to be utilized in projects",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jill M Nolan <jill@samret.co> (samret.co)",
+  "license": "ISC"
+}
